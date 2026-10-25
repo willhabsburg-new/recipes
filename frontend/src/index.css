@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+/* Colours are tokens so the light theme is a variable swap, not a second set of classes. */
+:root,
+:root[data-theme="dark"] {
+  --bg: #111317;
+  --surface: #1a1d23;
+  --surface-2: #23272f;
+  --border: #2f343e;
+  --text: #eceef2;
+  --muted: #9aa1ad;
+  --accent: #f59e0b;
+  --accent-strong: #fbbf24;
+  --accent-fg: #1a1205;
+  --danger: #f87171;
+  --ok: #4ade80;
+  --warn: #fbbf24;
+  color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+  --bg: #f6f5f2;
+  --surface: #ffffff;
+  --surface-2: #efede8;
+  --border: #dcd9d2;
+  --text: #1c1d21;
+  --muted: #5f6470;
+  --accent: #b45309;
+  --accent-strong: #92400e;
+  --accent-fg: #ffffff;
+  --danger: #dc2626;
+  --ok: #15803d;
+  --warn: #b45309;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-fg: var(--accent-fg);
+  --color-danger: var(--danger);
+  --color-ok: var(--ok);
+  --color-warn: var(--warn);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  min-height: 100dvh;
+}
+
+input,
+textarea,
+select {
+  font-size: 16px; /* below 16px iOS zooms the page on focus */
+}
+
+.prose-recipe h1,
+.prose-recipe h2,
+.prose-recipe h3 {
+  font-weight: 600;
+  margin: 1.25em 0 0.5em;
+}
+.prose-recipe p {
+  margin: 0.6em 0;
+}
+.prose-recipe ol {
+  list-style: decimal;
+  padding-left: 1.4em;
+}
+.prose-recipe ul {
+  list-style: disc;
+  padding-left: 1.4em;
+}
+.prose-recipe li {
+  margin: 0.5em 0;
+  padding-left: 0.2em;
+}
+.prose-recipe a {
+  color: var(--accent);
+  text-decoration: underline;
+}

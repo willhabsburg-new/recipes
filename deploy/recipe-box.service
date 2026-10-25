@@ -1,0 +1,17 @@
+# Copy to /etc/systemd/system/recipe-box.service, adjust User and paths, then:
+#   sudo systemctl daemon-reload && sudo systemctl enable --now recipe-box
+[Unit]
+Description=Will's Recipes
+After=network.target
+
+[Service]
+User=will
+WorkingDirectory=/home/will/code/recipe/backend
+# Served through `tailscale serve` (HTTPS), so the session cookie can be Secure.
+# Set to false if you open it over plain http on the LAN instead.
+Environment=RECIPE_COOKIE_SECURE=true
+ExecStart=/home/will/code/recipe/backend/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 --proxy-headers
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

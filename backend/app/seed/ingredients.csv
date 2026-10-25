@@ -1,0 +1,917 @@
+name,category,staple,aliases
+salt,herbs & spices,1,table salt
+kosher salt,herbs & spices,1,
+sea salt,herbs & spices,1,flaky sea salt;maldon salt
+black pepper,herbs & spices,1,pepper;ground black pepper;cracked black pepper
+water,other,1,
+ice,other,1,ice cube
+olive oil,oils & vinegars,1,
+extra virgin olive oil,oils & vinegars,0,evoo
+vegetable oil,oils & vinegars,1,
+canola oil,oils & vinegars,1,rapeseed oil
+cooking spray,oils & vinegars,1,nonstick spray
+acorn squash,produce,0,
+alfalfa sprout,produce,0,
+artichoke,produce,0,
+artichoke heart,canned & jarred,0,
+arugula,produce,0,rocket
+asparagus,produce,0,
+avocado,produce,0,
+baby spinach,produce,0,
+bamboo shoot,canned & jarred,0,
+bean sprout,produce,0,mung bean sprout
+beet,produce,0,beetroot
+beet greens,produce,0,
+bell pepper,produce,0,sweet pepper;capsicum
+red bell pepper,produce,0,red pepper
+green bell pepper,produce,0,green pepper
+yellow bell pepper,produce,0,yellow pepper
+orange bell pepper,produce,0,orange pepper
+bok choy,produce,0,pak choi;bok choi
+baby bok choy,produce,0,
+broccoli,produce,0,
+broccoli rabe,produce,0,rapini
+broccolini,produce,0,
+brussels sprout,produce,0,
+butternut squash,produce,0,
+cabbage,produce,0,green cabbage
+red cabbage,produce,0,purple cabbage
+napa cabbage,produce,0,chinese cabbage
+savoy cabbage,produce,0,
+carrot,produce,0,
+baby carrot,produce,0,
+cauliflower,produce,0,
+celery,produce,0,celery stalk;celery rib
+celery root,produce,0,celeriac
+chard,produce,0,swiss chard;silverbeet
+collard greens,produce,0,collards
+corn,produce,0,sweet corn;corn kernel
+corn on the cob,produce,0,ear of corn
+cucumber,produce,0,
+english cucumber,produce,0,
+daikon,produce,0,daikon radish
+delicata squash,produce,0,
+eggplant,produce,0,aubergine
+japanese eggplant,produce,0,
+endive,produce,0,belgian endive
+escarole,produce,0,
+fennel,produce,0,fennel bulb
+frisee,produce,0,
+garlic,produce,0,garlic clove;clove of garlic
+ginger,produce,0,fresh ginger;ginger root
+green bean,produce,0,string bean;haricot vert
+green onion,produce,0,scallion;spring onion
+horseradish,produce,0,
+jalapeno,produce,0,jalapeno pepper
+serrano pepper,produce,0,serrano chile
+habanero,produce,0,habanero pepper
+poblano pepper,produce,0,poblano
+anaheim pepper,produce,0,
+thai chili,produce,0,bird's eye chili;thai chile
+fresno chili,produce,0,
+red chili,produce,0,red chile;fresh chili
+banana pepper,produce,0,
+shishito pepper,produce,0,
+jicama,produce,0,
+kale,produce,0,curly kale
+lacinato kale,produce,0,tuscan kale;dinosaur kale;cavolo nero
+kohlrabi,produce,0,
+leek,produce,0,
+lettuce,produce,0,
+romaine lettuce,produce,0,romaine
+iceberg lettuce,produce,0,
+butter lettuce,produce,0,bibb lettuce;boston lettuce
+mixed greens,produce,0,spring mix;salad greens
+microgreens,produce,0,
+mushroom,produce,0,white mushroom;button mushroom
+cremini mushroom,produce,0,baby bella;crimini mushroom
+portobello mushroom,produce,0,portabella mushroom
+shiitake mushroom,produce,0,shiitake
+oyster mushroom,produce,0,
+chanterelle,produce,0,
+enoki mushroom,produce,0,
+porcini mushroom,produce,0,dried porcini
+maitake mushroom,produce,0,hen of the woods
+okra,produce,0,
+onion,produce,0,
+yellow onion,produce,0,brown onion
+white onion,produce,0,
+red onion,produce,0,purple onion
+sweet onion,produce,0,vidalia onion
+pearl onion,produce,0,
+shallot,produce,0,
+parsnip,produce,0,
+pea,produce,0,green pea;garden pea
+snow pea,produce,0,mangetout
+sugar snap pea,produce,0,snap pea
+potato,produce,0,
+russet potato,produce,0,idaho potato;baking potato
+yukon gold potato,produce,0,yukon potato
+red potato,produce,0,
+fingerling potato,produce,0,
+baby potato,produce,0,new potato
+sweet potato,produce,0,
+yam,produce,0,
+pumpkin,produce,0,
+radicchio,produce,0,
+radish,produce,0,
+rhubarb,produce,0,
+rutabaga,produce,0,swede
+spaghetti squash,produce,0,
+spinach,produce,0,
+summer squash,produce,0,yellow squash
+tomatillo,produce,0,
+tomato,produce,0,
+cherry tomato,produce,0,
+grape tomato,produce,0,
+roma tomato,produce,0,plum tomato
+heirloom tomato,produce,0,
+beefsteak tomato,produce,0,
+sun-dried tomato,canned & jarred,0,sundried tomato
+turnip,produce,0,
+watercress,produce,0,
+water chestnut,canned & jarred,0,
+zucchini,produce,0,courgette
+taro,produce,0,
+cassava,produce,0,yuca
+plantain,produce,0,
+lemongrass,produce,0,
+galangal,produce,0,
+apple,fruit,0,
+granny smith apple,fruit,0,green apple
+honeycrisp apple,fruit,0,
+apricot,fruit,0,
+dried apricot,fruit,0,
+banana,fruit,0,
+blackberry,fruit,0,
+blueberry,fruit,0,
+cantaloupe,fruit,0,
+cherry,fruit,0,
+dried cherry,fruit,0,
+clementine,fruit,0,
+coconut,fruit,0,
+cranberry,fruit,0,
+dried cranberry,fruit,0,craisin
+date,fruit,0,medjool date
+fig,fruit,0,
+dried fig,fruit,0,
+grape,fruit,0,
+grapefruit,fruit,0,
+guava,fruit,0,
+honeydew,fruit,0,honeydew melon
+kiwi,fruit,0,kiwifruit
+kumquat,fruit,0,
+lemon,fruit,0,
+lemon juice,fruit,0,
+lemon zest,fruit,0,lemon peel
+lime,fruit,0,
+lime juice,fruit,0,
+lime zest,fruit,0,
+mango,fruit,0,
+nectarine,fruit,0,
+orange,fruit,0,navel orange
+blood orange,fruit,0,
+orange juice,beverages,0,oj
+orange zest,fruit,0,orange peel
+papaya,fruit,0,
+passion fruit,fruit,0,
+peach,fruit,0,
+pear,fruit,0,
+persimmon,fruit,0,
+pineapple,fruit,0,
+plum,fruit,0,
+pomegranate,fruit,0,
+pomegranate seed,fruit,0,pomegranate aril
+prune,fruit,0,dried plum
+raisin,fruit,0,
+golden raisin,fruit,0,sultana
+raspberry,fruit,0,
+strawberry,fruit,0,
+tangerine,fruit,0,mandarin orange
+watermelon,fruit,0,
+star fruit,fruit,0,carambola
+lychee,fruit,0,
+dragon fruit,fruit,0,
+basil,herbs & spices,0,fresh basil;sweet basil
+thai basil,herbs & spices,0,
+bay leaf,herbs & spices,0,
+chive,herbs & spices,0,
+cilantro,herbs & spices,0,coriander leaf;fresh coriander
+dill,herbs & spices,0,fresh dill;dill weed
+marjoram,herbs & spices,0,
+mint,herbs & spices,0,fresh mint
+oregano,herbs & spices,0,
+dried oregano,herbs & spices,0,
+parsley,herbs & spices,0,
+flat-leaf parsley,herbs & spices,0,italian parsley
+rosemary,herbs & spices,0,
+sage,herbs & spices,0,
+tarragon,herbs & spices,0,
+thyme,herbs & spices,0,
+dried thyme,herbs & spices,0,
+dried basil,herbs & spices,0,
+dried rosemary,herbs & spices,0,
+dried dill,herbs & spices,0,
+dried parsley,herbs & spices,0,
+kaffir lime leaf,herbs & spices,0,makrut lime leaf
+curry leaf,herbs & spices,0,
+herbes de provence,herbs & spices,0,
+italian seasoning,herbs & spices,0,
+allspice,herbs & spices,0,
+anise seed,herbs & spices,0,aniseed
+star anise,herbs & spices,0,
+caraway seed,herbs & spices,0,
+cardamom,herbs & spices,0,ground cardamom
+cardamom pod,herbs & spices,0,
+cayenne pepper,herbs & spices,0,cayenne
+celery seed,herbs & spices,0,
+celery salt,herbs & spices,0,
+chili powder,herbs & spices,0,
+chipotle powder,herbs & spices,0,
+ancho chili powder,herbs & spices,0,
+chinese five spice,herbs & spices,0,five spice powder
+cinnamon,herbs & spices,0,ground cinnamon
+cinnamon stick,herbs & spices,0,
+clove,herbs & spices,0,whole clove;ground clove
+coriander,herbs & spices,0,ground coriander;coriander seed
+cumin,herbs & spices,0,ground cumin
+cumin seed,herbs & spices,0,
+curry powder,herbs & spices,0,
+dried chili,herbs & spices,0,dried chile
+fennel seed,herbs & spices,0,
+fenugreek,herbs & spices,0,
+garam masala,herbs & spices,0,
+garlic powder,herbs & spices,0,granulated garlic
+garlic salt,herbs & spices,0,
+ground ginger,herbs & spices,0,
+mace,herbs & spices,0,
+mustard powder,herbs & spices,0,dry mustard;ground mustard
+mustard seed,herbs & spices,0,
+nutmeg,herbs & spices,0,ground nutmeg
+onion powder,herbs & spices,0,
+paprika,herbs & spices,0,
+smoked paprika,herbs & spices,0,pimenton
+sweet paprika,herbs & spices,0,
+red pepper flake,herbs & spices,0,crushed red pepper;chili flake
+saffron,herbs & spices,0,
+sumac,herbs & spices,0,
+turmeric,herbs & spices,0,ground turmeric
+white pepper,herbs & spices,0,
+peppercorn,herbs & spices,0,black peppercorn
+sichuan peppercorn,herbs & spices,0,szechuan peppercorn
+za'atar,herbs & spices,0,zaatar
+ras el hanout,herbs & spices,0,
+cajun seasoning,herbs & spices,0,creole seasoning
+taco seasoning,herbs & spices,0,
+old bay seasoning,herbs & spices,0,old bay
+everything bagel seasoning,herbs & spices,0,
+poultry seasoning,herbs & spices,0,
+pumpkin pie spice,herbs & spices,0,pumpkin spice
+apple pie spice,herbs & spices,0,
+lemon pepper,herbs & spices,0,
+seasoned salt,herbs & spices,0,seasoning salt
+msg,herbs & spices,0,monosodium glutamate
+vanilla bean,baking,0,
+bacon,meat,0,
+pancetta,meat,0,
+prosciutto,meat,0,
+beef,meat,0,
+ground beef,meat,0,minced beef;hamburger meat
+beef chuck,meat,0,chuck roast
+beef brisket,meat,0,brisket
+beef short rib,meat,0,short rib
+beef stew meat,meat,0,stew meat
+flank steak,meat,0,
+skirt steak,meat,0,
+sirloin steak,meat,0,sirloin
+ribeye steak,meat,0,ribeye
+new york strip steak,meat,0,strip steak
+filet mignon,meat,0,beef tenderloin
+flat iron steak,meat,0,
+tri-tip,meat,0,
+roast beef,meat,0,
+corned beef,meat,0,
+beef liver,meat,0,
+oxtail,meat,0,
+veal,meat,0,
+ground veal,meat,0,
+lamb,meat,0,
+ground lamb,meat,0,
+lamb chop,meat,0,
+leg of lamb,meat,0,
+lamb shank,meat,0,
+pork,meat,0,
+ground pork,meat,0,minced pork
+pork chop,meat,0,
+pork tenderloin,meat,0,
+pork loin,meat,0,
+pork shoulder,meat,0,pork butt;boston butt
+pork belly,meat,0,
+pork rib,meat,0,baby back rib;spare rib
+ham,meat,0,
+ham hock,meat,0,
+sausage,meat,0,
+italian sausage,meat,0,
+breakfast sausage,meat,0,
+chorizo,meat,0,
+andouille sausage,meat,0,andouille
+kielbasa,meat,0,polish sausage
+bratwurst,meat,0,
+hot dog,meat,0,frankfurter
+pepperoni,meat,0,
+salami,meat,0,
+genoa salami,meat,0,
+capicola,meat,0,
+mortadella,meat,0,
+deli ham,meat,0,
+venison,meat,0,
+bison,meat,0,ground bison
+goat,meat,0,
+rabbit,meat,0,
+chicken,poultry,0,whole chicken
+chicken breast,poultry,0,boneless skinless chicken breast
+chicken thigh,poultry,0,boneless skinless chicken thigh
+chicken drumstick,poultry,0,drumstick
+chicken wing,poultry,0,
+chicken leg,poultry,0,chicken leg quarter
+chicken tender,poultry,0,chicken tenderloin
+ground chicken,poultry,0,
+rotisserie chicken,poultry,0,
+chicken liver,poultry,0,
+turkey,poultry,0,whole turkey
+ground turkey,poultry,0,
+turkey breast,poultry,0,
+turkey bacon,poultry,0,
+deli turkey,poultry,0,sliced turkey
+duck,poultry,0,
+duck breast,poultry,0,
+cornish hen,poultry,0,game hen
+quail,poultry,0,
+anchovy,seafood,0,anchovy fillet
+bass,seafood,0,sea bass
+catfish,seafood,0,
+clam,seafood,0,
+cod,seafood,0,
+crab,seafood,0,crabmeat;crab meat
+crawfish,seafood,0,crayfish
+flounder,seafood,0,
+halibut,seafood,0,
+lobster,seafood,0,
+lobster tail,seafood,0,
+mahi mahi,seafood,0,
+mussel,seafood,0,
+octopus,seafood,0,
+oyster,seafood,0,
+salmon,seafood,0,salmon fillet
+smoked salmon,seafood,0,lox
+sardine,seafood,0,
+scallop,seafood,0,sea scallop
+bay scallop,seafood,0,
+shrimp,seafood,0,prawn
+snapper,seafood,0,red snapper
+sole,seafood,0,
+squid,seafood,0,calamari
+swordfish,seafood,0,
+tilapia,seafood,0,
+trout,seafood,0,
+tuna,seafood,0,tuna steak;ahi tuna
+canned tuna,canned & jarred,0,tuna in water
+canned salmon,canned & jarred,0,
+white fish,seafood,0,whitefish
+haddock,seafood,0,
+pollock,seafood,0,
+fish sauce,condiments & sauces,0,nam pla
+caviar,seafood,0,roe
+butter,dairy & eggs,0,
+unsalted butter,dairy & eggs,0,
+salted butter,dairy & eggs,0,
+ghee,dairy & eggs,0,clarified butter
+milk,dairy & eggs,0,whole milk
+skim milk,dairy & eggs,0,nonfat milk
+2% milk,dairy & eggs,0,reduced fat milk
+buttermilk,dairy & eggs,0,
+heavy cream,dairy & eggs,0,heavy whipping cream;double cream
+whipping cream,dairy & eggs,0,
+light cream,dairy & eggs,0,single cream
+half and half,dairy & eggs,0,half-and-half
+whipped cream,dairy & eggs,0,cool whip
+sour cream,dairy & eggs,0,
+creme fraiche,dairy & eggs,0,
+yogurt,dairy & eggs,0,plain yogurt
+greek yogurt,dairy & eggs,0,
+cream cheese,dairy & eggs,0,
+cottage cheese,dairy & eggs,0,
+ricotta,dairy & eggs,0,ricotta cheese
+mascarpone,dairy & eggs,0,
+cheese,dairy & eggs,0,
+american cheese,dairy & eggs,0,
+asiago,dairy & eggs,0,asiago cheese
+blue cheese,dairy & eggs,0,bleu cheese
+gorgonzola,dairy & eggs,0,
+brie,dairy & eggs,0,
+camembert,dairy & eggs,0,
+cheddar,dairy & eggs,0,cheddar cheese
+sharp cheddar,dairy & eggs,0,
+white cheddar,dairy & eggs,0,
+colby jack,dairy & eggs,0,
+feta,dairy & eggs,0,feta cheese
+fontina,dairy & eggs,0,
+goat cheese,dairy & eggs,0,chevre
+gouda,dairy & eggs,0,
+smoked gouda,dairy & eggs,0,
+gruyere,dairy & eggs,0,
+halloumi,dairy & eggs,0,
+havarti,dairy & eggs,0,
+manchego,dairy & eggs,0,
+monterey jack,dairy & eggs,0,jack cheese
+pepper jack,dairy & eggs,0,
+mozzarella,dairy & eggs,0,mozzarella cheese
+fresh mozzarella,dairy & eggs,0,
+burrata,dairy & eggs,0,
+muenster,dairy & eggs,0,
+paneer,dairy & eggs,0,
+parmesan,dairy & eggs,0,parmesan cheese;parmigiano reggiano;parmigiano
+pecorino romano,dairy & eggs,0,pecorino
+provolone,dairy & eggs,0,
+queso fresco,dairy & eggs,0,
+cotija,dairy & eggs,0,cotija cheese
+swiss cheese,dairy & eggs,0,emmental
+mexican cheese blend,dairy & eggs,0,shredded mexican cheese
+italian cheese blend,dairy & eggs,0,
+velveeta,dairy & eggs,0,processed cheese
+egg,dairy & eggs,0,large egg
+egg white,dairy & eggs,0,
+egg yolk,dairy & eggs,0,
+evaporated milk,canned & jarred,0,
+sweetened condensed milk,canned & jarred,0,condensed milk
+powdered milk,baking,0,milk powder;dry milk
+almond milk,dairy & eggs,0,
+oat milk,dairy & eggs,0,
+soy milk,dairy & eggs,0,
+coconut milk,canned & jarred,0,
+coconut cream,canned & jarred,0,
+ice cream,frozen,0,vanilla ice cream
+all-purpose flour,baking,0,flour;plain flour;ap flour
+bread flour,baking,0,
+cake flour,baking,0,
+whole wheat flour,baking,0,wholemeal flour
+self-rising flour,baking,0,self-raising flour
+almond flour,baking,0,almond meal
+coconut flour,baking,0,
+rice flour,baking,0,
+glutinous rice flour,baking,0,sweet rice flour;mochiko
+semolina,baking,0,
+cornmeal,baking,0,polenta
+masa harina,baking,0,
+cornstarch,baking,0,corn starch;cornflour
+arrowroot,baking,0,arrowroot powder
+tapioca starch,baking,0,tapioca flour
+potato starch,baking,0,
+baking powder,baking,0,
+baking soda,baking,0,bicarbonate of soda;bicarb
+active dry yeast,baking,0,yeast;dry yeast
+instant yeast,baking,0,rapid rise yeast
+cream of tartar,baking,0,
+vanilla extract,baking,0,vanilla;pure vanilla extract
+almond extract,baking,0,
+peppermint extract,baking,0,
+cocoa powder,baking,0,unsweetened cocoa;cocoa
+dutch process cocoa,baking,0,
+chocolate chip,baking,0,semisweet chocolate chip
+dark chocolate,baking,0,bittersweet chocolate
+milk chocolate,baking,0,
+white chocolate,baking,0,
+white chocolate chip,baking,0,
+unsweetened chocolate,baking,0,baking chocolate
+semisweet chocolate,baking,0,
+sprinkles,baking,0,nonpareils
+gelatin,baking,0,unflavored gelatin
+pectin,baking,0,
+food coloring,baking,0,
+shredded coconut,baking,0,coconut flake;desiccated coconut
+graham cracker,baking,0,
+graham cracker crumb,baking,0,
+pie crust,baking,0,pie dough;pastry crust
+puff pastry,frozen,0,
+phyllo dough,frozen,0,filo dough;phyllo
+marshmallow,baking,0,
+mini marshmallow,baking,0,
+marshmallow creme,baking,0,marshmallow fluff
+butterscotch chip,baking,0,
+peanut butter chip,baking,0,
+sugar,sweeteners,0,granulated sugar;white sugar;caster sugar
+brown sugar,sweeteners,0,light brown sugar
+dark brown sugar,sweeteners,0,
+powdered sugar,sweeteners,0,confectioners sugar;icing sugar
+turbinado sugar,sweeteners,0,raw sugar;demerara sugar
+coconut sugar,sweeteners,0,
+honey,sweeteners,0,
+maple syrup,sweeteners,0,pure maple syrup
+molasses,sweeteners,0,blackstrap molasses
+corn syrup,sweeteners,0,light corn syrup
+agave nectar,sweeteners,0,agave syrup
+golden syrup,sweeteners,0,
+stevia,sweeteners,0,
+date syrup,sweeteners,0,
+simple syrup,sweeteners,0,
+caramel sauce,sweeteners,0,
+chocolate syrup,sweeteners,0,
+rice,grains & pasta,0,white rice;long grain rice
+brown rice,grains & pasta,0,
+jasmine rice,grains & pasta,0,
+basmati rice,grains & pasta,0,
+arborio rice,grains & pasta,0,risotto rice
+sushi rice,grains & pasta,0,short grain rice
+wild rice,grains & pasta,0,
+glutinous rice,grains & pasta,0,sticky rice;sweet rice
+cooked rice,grains & pasta,0,leftover rice
+quinoa,grains & pasta,0,
+couscous,grains & pasta,0,
+pearl couscous,grains & pasta,0,israeli couscous
+bulgur,grains & pasta,0,bulgur wheat
+farro,grains & pasta,0,
+barley,grains & pasta,0,pearl barley
+millet,grains & pasta,0,
+buckwheat,grains & pasta,0,kasha
+freekeh,grains & pasta,0,
+oat,grains & pasta,0,rolled oat;old-fashioned oat;oatmeal
+steel cut oat,grains & pasta,0,
+quick oat,grains & pasta,0,instant oat
+grits,grains & pasta,0,
+granola,grains & pasta,0,
+pasta,grains & pasta,0,
+spaghetti,grains & pasta,0,
+linguine,grains & pasta,0,
+fettuccine,grains & pasta,0,
+angel hair pasta,grains & pasta,0,capellini
+penne,grains & pasta,0,penne pasta
+rigatoni,grains & pasta,0,
+ziti,grains & pasta,0,
+fusilli,grains & pasta,0,rotini
+farfalle,grains & pasta,0,bow tie pasta
+orecchiette,grains & pasta,0,
+macaroni,grains & pasta,0,elbow macaroni;elbow pasta
+shell pasta,grains & pasta,0,pasta shell;conchiglie
+jumbo pasta shell,grains & pasta,0,
+orzo,grains & pasta,0,
+lasagna noodle,grains & pasta,0,lasagne sheet
+egg noodle,grains & pasta,0,
+pappardelle,grains & pasta,0,
+tagliatelle,grains & pasta,0,
+bucatini,grains & pasta,0,
+gnocchi,grains & pasta,0,
+tortellini,grains & pasta,0,
+ravioli,grains & pasta,0,
+manicotti,grains & pasta,0,
+ramen noodle,grains & pasta,0,
+udon noodle,grains & pasta,0,udon
+soba noodle,grains & pasta,0,soba
+rice noodle,grains & pasta,0,rice stick;pad thai noodle
+rice vermicelli,grains & pasta,0,
+glass noodle,grains & pasta,0,cellophane noodle;bean thread noodle
+lo mein noodle,grains & pasta,0,
+chow mein noodle,grains & pasta,0,
+rice paper,grains & pasta,0,spring roll wrapper
+wonton wrapper,grains & pasta,0,
+egg roll wrapper,grains & pasta,0,
+dumpling wrapper,grains & pasta,0,gyoza wrapper
+bread,bread & bakery,0,sandwich bread;white bread
+whole wheat bread,bread & bakery,0,
+sourdough bread,bread & bakery,0,sourdough
+french bread,bread & bakery,0,
+baguette,bread & bakery,0,
+ciabatta,bread & bakery,0,
+brioche,bread & bakery,0,
+challah,bread & bakery,0,
+rye bread,bread & bakery,0,
+pita,bread & bakery,0,pita bread
+naan,bread & bakery,0,
+flatbread,bread & bakery,0,
+english muffin,bread & bakery,0,
+bagel,bread & bakery,0,
+croissant,bread & bakery,0,
+hamburger bun,bread & bakery,0,burger bun
+hot dog bun,bread & bakery,0,
+dinner roll,bread & bakery,0,roll
+slider bun,bread & bakery,0,hawaiian roll
+flour tortilla,bread & bakery,0,tortilla
+corn tortilla,bread & bakery,0,
+tortilla chip,snacks,0,
+taco shell,bread & bakery,0,hard taco shell
+tostada,bread & bakery,0,tostada shell
+breadcrumb,bread & bakery,0,bread crumb;dried breadcrumb
+panko,bread & bakery,0,panko breadcrumb
+crouton,bread & bakery,0,
+pizza dough,bread & bakery,0,
+pizza crust,bread & bakery,0,
+cracker,snacks,0,
+saltine cracker,snacks,0,saltine
+ritz cracker,snacks,0,
+potato chip,snacks,0,crisp
+pretzel,snacks,0,
+popcorn,snacks,0,popcorn kernel
+cereal,grains & pasta,0,
+corn flake,grains & pasta,0,
+rice cereal,grains & pasta,0,rice krispies
+black bean,legumes,0,
+pinto bean,legumes,0,
+kidney bean,legumes,0,red kidney bean
+cannellini bean,legumes,0,white kidney bean
+great northern bean,legumes,0,
+navy bean,legumes,0,haricot bean
+white bean,legumes,0,
+chickpea,legumes,0,garbanzo bean;garbanzo
+lentil,legumes,0,brown lentil;green lentil
+red lentil,legumes,0,
+black lentil,legumes,0,beluga lentil
+french lentil,legumes,0,puy lentil
+split pea,legumes,0,
+black-eyed pea,legumes,0,black eyed pea
+lima bean,legumes,0,butter bean
+edamame,legumes,0,
+fava bean,legumes,0,broad bean
+mung bean,legumes,0,
+refried bean,canned & jarred,0,
+baked bean,canned & jarred,0,
+tofu,legumes,0,
+firm tofu,legumes,0,extra firm tofu
+silken tofu,legumes,0,soft tofu
+tempeh,legumes,0,
+seitan,other,0,
+almond,nuts & seeds,0,
+sliced almond,nuts & seeds,0,slivered almond
+cashew,nuts & seeds,0,
+peanut,nuts & seeds,0,
+pecan,nuts & seeds,0,
+pistachio,nuts & seeds,0,
+walnut,nuts & seeds,0,
+hazelnut,nuts & seeds,0,filbert
+macadamia nut,nuts & seeds,0,macadamia
+pine nut,nuts & seeds,0,pignoli
+brazil nut,nuts & seeds,0,
+chestnut,nuts & seeds,0,
+mixed nuts,nuts & seeds,0,
+chia seed,nuts & seeds,0,
+flaxseed,nuts & seeds,0,flax seed;ground flaxseed;flax meal
+hemp seed,nuts & seeds,0,hemp heart
+poppy seed,nuts & seeds,0,
+pumpkin seed,nuts & seeds,0,pepita
+sesame seed,nuts & seeds,0,
+black sesame seed,nuts & seeds,0,
+sunflower seed,nuts & seeds,0,
+peanut butter,nuts & seeds,0,creamy peanut butter
+almond butter,nuts & seeds,0,
+cashew butter,nuts & seeds,0,
+tahini,nuts & seeds,0,sesame paste
+nutella,nuts & seeds,0,chocolate hazelnut spread
+sesame oil,oils & vinegars,0,toasted sesame oil
+coconut oil,oils & vinegars,0,
+avocado oil,oils & vinegars,0,
+peanut oil,oils & vinegars,0,
+sunflower oil,oils & vinegars,0,
+grapeseed oil,oils & vinegars,0,
+walnut oil,oils & vinegars,0,
+truffle oil,oils & vinegars,0,
+chili oil,oils & vinegars,0,chili crisp
+shortening,oils & vinegars,0,vegetable shortening;crisco
+lard,oils & vinegars,0,
+bacon grease,oils & vinegars,0,bacon fat
+duck fat,oils & vinegars,0,
+margarine,dairy & eggs,0,
+vinegar,oils & vinegars,0,white vinegar;distilled vinegar
+apple cider vinegar,oils & vinegars,0,cider vinegar
+balsamic vinegar,oils & vinegars,0,balsamic
+balsamic glaze,oils & vinegars,0,balsamic reduction
+red wine vinegar,oils & vinegars,0,
+white wine vinegar,oils & vinegars,0,
+rice vinegar,oils & vinegars,0,rice wine vinegar
+sherry vinegar,oils & vinegars,0,
+champagne vinegar,oils & vinegars,0,
+malt vinegar,oils & vinegars,0,
+black vinegar,oils & vinegars,0,chinkiang vinegar
+ketchup,condiments & sauces,0,catsup
+mustard,condiments & sauces,0,yellow mustard
+dijon mustard,condiments & sauces,0,dijon
+whole grain mustard,condiments & sauces,0,grainy mustard
+honey mustard,condiments & sauces,0,
+mayonnaise,condiments & sauces,0,mayo
+aioli,condiments & sauces,0,
+relish,condiments & sauces,0,sweet pickle relish
+pickle,canned & jarred,0,dill pickle
+pickle juice,canned & jarred,0,
+caper,canned & jarred,0,
+olive,canned & jarred,0,black olive
+kalamata olive,canned & jarred,0,
+green olive,canned & jarred,0,
+pimento,canned & jarred,0,pimiento
+roasted red pepper,canned & jarred,0,
+pepperoncini,canned & jarred,0,
+pickled jalapeno,canned & jarred,0,
+chipotle in adobo,canned & jarred,0,chipotle pepper in adobo sauce;chipotle pepper
+green chile,canned & jarred,0,diced green chile
+hot sauce,condiments & sauces,0,tabasco;frank's red hot
+sriracha,condiments & sauces,0,
+sambal oelek,condiments & sauces,0,sambal
+gochujang,condiments & sauces,0,korean chili paste
+gochugaru,herbs & spices,0,korean chili flake
+harissa,condiments & sauces,0,
+chili garlic sauce,condiments & sauces,0,
+worcestershire sauce,condiments & sauces,0,worcestershire
+soy sauce,condiments & sauces,0,
+low sodium soy sauce,condiments & sauces,0,
+tamari,condiments & sauces,0,
+coconut aminos,condiments & sauces,0,
+oyster sauce,condiments & sauces,0,
+hoisin sauce,condiments & sauces,0,hoisin
+teriyaki sauce,condiments & sauces,0,
+ponzu,condiments & sauces,0,ponzu sauce
+mirin,condiments & sauces,0,
+sake,beverages & alcohol,0,
+shaoxing wine,condiments & sauces,0,chinese cooking wine;rice wine
+miso,condiments & sauces,0,miso paste;white miso
+red miso,condiments & sauces,0,
+doubanjiang,condiments & sauces,0,chili bean paste
+black bean sauce,condiments & sauces,0,
+fish sauce,condiments & sauces,0,
+thai red curry paste,condiments & sauces,0,red curry paste
+thai green curry paste,condiments & sauces,0,green curry paste
+yellow curry paste,condiments & sauces,0,
+massaman curry paste,condiments & sauces,0,
+tamarind paste,condiments & sauces,0,tamarind
+peanut sauce,condiments & sauces,0,satay sauce
+sweet chili sauce,condiments & sauces,0,thai sweet chili sauce
+barbecue sauce,condiments & sauces,0,bbq sauce
+buffalo sauce,condiments & sauces,0,wing sauce
+steak sauce,condiments & sauces,0,a1 sauce
+tartar sauce,condiments & sauces,0,
+cocktail sauce,condiments & sauces,0,
+ranch dressing,condiments & sauces,0,ranch
+italian dressing,condiments & sauces,0,
+caesar dressing,condiments & sauces,0,
+blue cheese dressing,condiments & sauces,0,
+thousand island dressing,condiments & sauces,0,
+vinaigrette,condiments & sauces,0,
+salsa,condiments & sauces,0,
+salsa verde,condiments & sauces,0,
+pico de gallo,condiments & sauces,0,
+guacamole,condiments & sauces,0,
+enchilada sauce,condiments & sauces,0,red enchilada sauce
+green enchilada sauce,condiments & sauces,0,
+mole,condiments & sauces,0,mole sauce
+pesto,condiments & sauces,0,basil pesto
+marinara sauce,condiments & sauces,0,marinara;spaghetti sauce;pasta sauce
+pizza sauce,condiments & sauces,0,
+alfredo sauce,condiments & sauces,0,
+vodka sauce,condiments & sauces,0,
+hummus,condiments & sauces,0,
+tzatziki,condiments & sauces,0,
+chimichurri,condiments & sauces,0,
+horseradish sauce,condiments & sauces,0,prepared horseradish
+liquid smoke,condiments & sauces,0,
+anchovy paste,condiments & sauces,0,
+jam,condiments & sauces,0,jelly;preserves
+strawberry jam,condiments & sauces,0,
+raspberry jam,condiments & sauces,0,
+apricot jam,condiments & sauces,0,apricot preserves
+grape jelly,condiments & sauces,0,
+orange marmalade,condiments & sauces,0,marmalade
+apple butter,condiments & sauces,0,
+applesauce,condiments & sauces,0,apple sauce
+cranberry sauce,condiments & sauces,0,
+lemon curd,condiments & sauces,0,
+canned tomato,canned & jarred,0,diced tomato;canned diced tomato
+crushed tomato,canned & jarred,0,
+whole peeled tomato,canned & jarred,0,san marzano tomato
+fire-roasted tomato,canned & jarred,0,fire roasted diced tomato
+tomato sauce,canned & jarred,0,
+tomato paste,canned & jarred,0,
+tomato puree,canned & jarred,0,passata
+rotel,canned & jarred,0,diced tomato and green chile
+canned corn,canned & jarred,0,
+creamed corn,canned & jarred,0,cream-style corn
+canned pumpkin,canned & jarred,0,pumpkin puree
+pie filling,canned & jarred,0,cherry pie filling
+cream of mushroom soup,canned & jarred,0,condensed cream of mushroom soup
+cream of chicken soup,canned & jarred,0,
+tomato soup,canned & jarred,0,
+french onion soup mix,canned & jarred,0,onion soup mix
+ranch seasoning mix,herbs & spices,0,ranch packet
+chicken broth,canned & jarred,0,chicken stock
+beef broth,canned & jarred,0,beef stock
+vegetable broth,canned & jarred,0,vegetable stock
+bone broth,canned & jarred,0,
+fish stock,canned & jarred,0,seafood stock
+dashi,canned & jarred,0,
+bouillon cube,canned & jarred,0,bouillon;stock cube
+chicken bouillon,canned & jarred,0,better than bouillon
+clam juice,canned & jarred,0,
+mandarin orange segment,canned & jarred,0,canned mandarin orange
+canned pineapple,canned & jarred,0,crushed pineapple;pineapple chunk
+maraschino cherry,canned & jarred,0,
+sauerkraut,canned & jarred,0,
+kimchi,canned & jarred,0,
+giardiniera,canned & jarred,0,
+frozen pea,frozen,0,
+frozen corn,frozen,0,
+frozen spinach,frozen,0,
+frozen broccoli,frozen,0,
+frozen mixed vegetable,frozen,0,mixed vegetables
+frozen berry,frozen,0,mixed berry
+frozen hash brown,frozen,0,hash brown
+tater tot,frozen,0,
+french fry,frozen,0,fries
+frozen shrimp,frozen,0,
+frozen pie shell,frozen,0,
+frozen dumpling,frozen,0,potsticker
+frozen waffle,frozen,0,
+coffee,beverages & alcohol,0,brewed coffee
+espresso,beverages & alcohol,0,
+instant espresso powder,beverages & alcohol,0,espresso powder;instant coffee
+tea,beverages & alcohol,0,black tea
+green tea,beverages & alcohol,0,
+matcha,beverages & alcohol,0,matcha powder
+apple juice,beverages & alcohol,0,
+apple cider,beverages & alcohol,0,
+cranberry juice,beverages & alcohol,0,
+pineapple juice,beverages & alcohol,0,
+tomato juice,beverages & alcohol,0,
+coconut water,beverages & alcohol,0,
+club soda,beverages & alcohol,0,soda water;sparkling water
+ginger ale,beverages & alcohol,0,
+ginger beer,beverages & alcohol,0,
+cola,beverages & alcohol,0,coke
+lemonade,beverages & alcohol,0,
+beer,beverages & alcohol,0,lager
+stout,beverages & alcohol,0,guinness
+red wine,beverages & alcohol,0,dry red wine
+white wine,beverages & alcohol,0,dry white wine
+sherry,beverages & alcohol,0,dry sherry
+marsala wine,beverages & alcohol,0,marsala
+port,beverages & alcohol,0,port wine
+champagne,beverages & alcohol,0,sparkling wine;prosecco
+vermouth,beverages & alcohol,0,dry vermouth
+brandy,beverages & alcohol,0,cognac
+bourbon,beverages & alcohol,0,whiskey;whisky
+rum,beverages & alcohol,0,dark rum;white rum
+vodka,beverages & alcohol,0,
+tequila,beverages & alcohol,0,
+gin,beverages & alcohol,0,
+triple sec,beverages & alcohol,0,cointreau;grand marnier;orange liqueur
+amaretto,beverages & alcohol,0,
+kahlua,beverages & alcohol,0,coffee liqueur
+irish cream,beverages & alcohol,0,baileys
+nutritional yeast,other,0,nooch
+vital wheat gluten,baking,0,
+textured vegetable protein,other,0,tvp
+seaweed,other,0,
+nori,other,0,nori sheet
+kombu,other,0,kelp
+wakame,other,0,
+bonito flake,other,0,katsuobushi
+furikake,herbs & spices,0,
+pickled ginger,canned & jarred,0,gari
+wasabi,condiments & sauces,0,
+panch phoron,herbs & spices,0,
+asafoetida,herbs & spices,0,hing
+amchur,herbs & spices,0,mango powder
+kasuri methi,herbs & spices,0,dried fenugreek leaf
+dried shrimp,seafood,0,
+preserved lemon,canned & jarred,0,
+rose water,baking,0,
+orange blossom water,baking,0,
+dulce de leche,sweeteners,0,
+cookie,snacks,0,
+oreo,snacks,0,chocolate sandwich cookie
+vanilla wafer,snacks,0,nilla wafer
+ladyfinger,baking,0,savoiardi
+pound cake,bread & bakery,0,
+angel food cake,bread & bakery,0,
+cake mix,baking,0,
+brownie mix,baking,0,
+pancake mix,baking,0,bisquick;baking mix
+pudding mix,baking,0,instant pudding
+jello,baking,0,flavored gelatin
+stuffing mix,baking,0,
+cornbread mix,baking,0,
+mac and cheese,grains & pasta,0,boxed mac and cheese
+refrigerated biscuit dough,bread & bakery,0,canned biscuit
+crescent roll dough,bread & bakery,0,crescent roll
+biscuit,bread & bakery,0,
+waffle,bread & bakery,0,
+pancake,bread & bakery,0,
+dark rye flour,baking,0,rye flour
+spelt flour,baking,0,
+chickpea flour,baking,0,gram flour;besan
+oat flour,baking,0,
+xanthan gum,baking,0,
+agar agar,baking,0,agar
+candied ginger,baking,0,crystallized ginger
+candied pecan,nuts & seeds,0,
+candied fruit,baking,0,
+toffee bit,baking,0,
+caramel,baking,0,caramel candy
+peppermint candy,snacks,0,candy cane
+peanut butter cup,snacks,0,
+m&m,snacks,0,
+candy corn,snacks,0,
+gummy bear,snacks,0,

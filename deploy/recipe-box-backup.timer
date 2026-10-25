@@ -1,0 +1,11 @@
+# Nightly backup. Install alongside recipe-box-backup.service, then:
+#   sudo systemctl enable --now recipe-box-backup.timer
+[Unit]
+Description=Nightly Will's Recipes backup
+
+[Timer]
+OnCalendar=*-*-* 03:30
+Persistent=true
+
+[Install]
+WantedBy=timers.target

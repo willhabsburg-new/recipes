@@ -1,0 +1,7 @@
+[Unit]
+Description=Will's Recipes database backup
+
+[Service]
+Type=oneshot
+User=will
+ExecStart=/home/will/code/recipe/backend/.venv/bin/python /home/will/code/recipe/deploy/backup.py
